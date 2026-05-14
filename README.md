@@ -44,7 +44,7 @@ Junior Data Analyst | Automation & Electronic Design Engineer
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,mysql,cpp,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,mysql,cpp&theme=dark" />
 
 </div>
 
@@ -52,7 +52,7 @@ Junior Data Analyst | Automation & Electronic Design Engineer
 
 <h3>Herramientas</h3>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,discord,raspberrypi,matlab&theme=dark" />
 
 </div>
 
