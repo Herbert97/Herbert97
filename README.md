@@ -18,26 +18,26 @@
 
 <br>
 
-<h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
-<!--tech stack icons-->
-<div align=center>
-   <h3>Lenguajes de Programacion</h3>
+<h1 align="center">Tecnologías conocidas 👨🏻‍💻</h1>
+
+<div align="center">
+
+  <h3>Lenguajes de Programación</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,py,SQL,cpp&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,cpp&theme=light" />
   </a>
-  <h3>Backend</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
+
+  <h3>Bases de Datos</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql&theme=light" />
   </a>
-   <h3>AI Engineering</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
+
+  <h3>Herramientas</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
   </a>
-    <h3>Tools</h3>
-     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
-  </a>
-  </div>
+
+</div>
 <br>
 <div align=center>
   <h1> Mis estadisticas </h1> 
