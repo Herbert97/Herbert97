@@ -16,6 +16,7 @@ Junior Data Analyst | Automation & Electronic Design Engineer
 <img src="https://img.shields.io/badge/Gmail-falcon9718@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </div>
+<br>
 <a href="mailto:35165949@uaz.edu.mx" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
