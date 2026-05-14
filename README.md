@@ -21,7 +21,7 @@
 <h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
 <!--tech stack icons-->
 <div align=center>
-   <h3>Frontend</h3>
+   <h3>Lenguajes de Programacion</h3>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,py,SQL,cpp&theme=light" />
   </a>
@@ -59,6 +59,6 @@
 </div>
 
 ------
-[Anton-dev3306](https://github.com/Anton-dev3306)
+[Herber Martell](https://github.com/Herbert97)
 
 Last Edited on: 12/07/2025
