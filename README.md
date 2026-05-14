@@ -31,36 +31,8 @@
 
   <h3>Herramientas</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,matlab,anaconda&theme=light" />
   </a>
-
-</div>
-<br>
-<div align=center>
-  <h1> Mis estadisticas </h1> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
-<br>
-  </div>
-<div align=center>
-<!---------------->
-  <div align="center">
-
-  <h3>Lenguajes y Bases de Datos</h3>
-
-  <img src="https://skillicons.dev/icons?i=py,mysql,cpp,git,github,vscode&theme=light" />
-
-  <br><br>
-
-  <h3>Ingeniería y Automatización</h3>
-
-  <!-- MATLAB -->
-  <img src="https://img.icons8.com/color/48/matlab.png" width="48" height="48"/>
-
-  <!-- SolidWorks -->
-  <img src="https://img.icons8.com/color/48/solidworks.png" width="48" height="48"/>
-
-  <!-- Altium -->
-  <img src="https://img.icons8.com/color/48/altium-designer.png" width="48" height="48"/>
 
 </div>
 <!--- stats & Trophy (start) -->
