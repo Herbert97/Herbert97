@@ -37,12 +37,12 @@ Junior Data Analyst | Automation & Electronic Design Engineer
 <h1 align="center">Tecnologías conocidas 👨🏻‍💻</h1>
 
 <div align="center">
-<br>
+
 <h1 align="center">Lenguajes y Bases de Datos 🚀</h1>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,mysql,cpp,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,mysql,cpp,&theme=dark" />
 
 </div>
 
