@@ -38,7 +38,7 @@ Junior Data Analyst | Automation & Electronic Design Engineer
 
 <div align="center">
 
-<h1 align="center">Lenguajes y Bases de Datos 🚀</h1>
+<h3 align="center">Lenguajes y Bases de Datos 🚀</h3>
 
 <div align="center">
 
