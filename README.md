@@ -18,7 +18,7 @@ Junior Data Analyst | Automation & Electronic Design Engineer
 </a>
 
 <a href="https://discord.com/users/falcon9718">
-<img src="https://img.shields.io/badge/Discord-Herbert97-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-falcon9718-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 </div>
 <br>
