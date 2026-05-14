@@ -14,10 +14,7 @@
 
 📫 Contacto: **falcon9718@hotmail.com**  
 </div>
-
-
 <br>
-
 <h1 align="center">Tecnologías conocidas 👨🏻‍💻</h1>
 
 <div align="center">
@@ -45,6 +42,27 @@
 <br>
   </div>
 <div align=center>
+<!---------------->
+  <div align="center">
+
+  <h3>Lenguajes y Bases de Datos</h3>
+
+  <img src="https://skillicons.dev/icons?i=py,mysql,cpp,git,github,vscode&theme=light" />
+
+  <br><br>
+
+  <h3>Ingeniería y Automatización</h3>
+
+  <!-- MATLAB -->
+  <img src="https://img.icons8.com/color/48/matlab.png" width="48" height="48"/>
+
+  <!-- SolidWorks -->
+  <img src="https://img.icons8.com/color/48/solidworks.png" width="48" height="48"/>
+
+  <!-- Altium -->
+  <img src="https://img.icons8.com/color/48/altium-designer.png" width="48" height="48"/>
+
+</div>
 <!--- stats & Trophy (start) -->
 <a href="https://github.com/Anton-dev3306">
   <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
