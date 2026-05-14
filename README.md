@@ -1,8 +1,8 @@
 ##<h1 align="center">Hola 👋  soy Herbert Martell / Herbert-Data Analyst ✨ </h1> 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/antonio-dev-b71146213/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
-<a href = "mailto:antonioestudiante15@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
+<a href="www.linkedin.com/in/herbert-martell-puente-b89274370" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Herbert9718"/></a>
+<a href = "mailto:falcon9718@hotmail.com.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Herbert9718"  /></a>
   </p>
 <br>
 <h1 align=center>Sobre mi 😃</h1>
@@ -23,7 +23,7 @@
 <div align=center>
    <h3>Frontend</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,py,SQL,cpp&theme=light" />
   </a>
   <h3>Backend</h3>
    <a href="https://skillicons.dev">
