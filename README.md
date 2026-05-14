@@ -37,44 +37,20 @@ Junior Data Analyst | Automation & Electronic Design Engineer
 <h1 align="center">Tecnologías conocidas 👨🏻‍💻</h1>
 
 <div align="center">
+<br>
+<h1 align="center">Lenguajes y Bases de Datos 🚀</h1>
 
-<h3>Lenguajes de Programación</h3>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,mysql,cpp,git,github,vscode&theme=dark" />
 
-<br><br>
-
-<h3>Bases de Datos</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+</div>
 
 <br><br>
 
 <h3>Herramientas</h3>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-
-</div>
-
-<br>
-
-<h1 align="center">Mis estadísticas 📊</h1>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Herbert97&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Herbert97&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<h1 align="center">Lenguajes y Bases de Datos 🚀</h1>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,mysql,cpp,git,github,vscode&theme=dark" />
 
 </div>
 
