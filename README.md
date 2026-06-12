@@ -3,7 +3,7 @@ Hola 👋 Soy Herbert Martell
 </h1>
 
 <h3 align="center">
-Junior Data Analyst | Automation & Electronic Design Engineer
+Data Analyst | SQL | Python | Power BI | Electronic Design Engineer
 </h3>
 <h1 align="center">Contacto 📫</h1>
 
@@ -25,9 +25,9 @@ Junior Data Analyst | Automation & Electronic Design Engineer
 
 <h1 align="center">Sobre mí 😃</h1>
 <div align="center">
-
-🎓 Ingeniero en Robótica y Mecatrónica  
-💻 Junior Data Analyst  
+  
+💻 Data Analyst 
+🎓 Ingeniero en Robótica y Mecatrónica   
 ⚡ Especializado en automatización, análisis de datos y diseño electrónico  
 📊 SQL | Python | Power BI | C++  
 📫 Contacto: **falcon9718@hotmail.com**
