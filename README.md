@@ -76,13 +76,12 @@ Data Analyst | SQL | Python | Power BI | Electronic Design Engineer
 <h1 align="center">Proyectos Destacados 📂</h1>
 
 <div align="center">
-
-🔹 Análisis de Desempeño en Call Center  
 <a href="https://github.com/Herbert97/CallMeMaybe">
-🔹 Análisis SQL de Plataforma de Libros  
+🔹 Análisis de Desempeño en Call Center  
 <a href="https://github.com/Herbert97/SQL">
-🔹 Análisis Estadístico de Pruebas A/B  
+🔹 Análisis SQL de Plataforma de Libros  
 <a href="https://github.com/Herbert97/Recommender-system">
+🔹 Análisis Estadístico de Pruebas A/B  
 🔹 Sistema Automatizado SILAR  
 
 </div>
